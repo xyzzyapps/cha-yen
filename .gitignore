@@ -1,0 +1,14 @@
+# Build artifacts
+/bin/
+*.exe
+*.apk
+*.so
+
+# Debug / verification artifacts
+*.log
+*.png
+!/assets/icon.png
+!cmd/cha-yen/icon.png
+
+# Local tool caches
+.gocache/
